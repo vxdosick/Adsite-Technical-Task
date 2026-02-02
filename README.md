@@ -16,6 +16,3 @@ To start the project in development mode, run:
 npm run watch
 ```
 
-## Development
-You can view the live project by visiting the following link: [https://vxdosick.github.io/adsite-testtask-html-tailwind-js/]
-
